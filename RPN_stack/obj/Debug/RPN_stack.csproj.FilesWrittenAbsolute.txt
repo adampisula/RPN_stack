@@ -1,0 +1,13 @@
+/run/user/1000/gvfs/smb-share:server=wdm,share=adam/C#/RPN_stack/RPN_stack/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/run/user/1000/gvfs/smb-share:server=wdm,share=adam/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.Form1.resources
+/run/user/1000/gvfs/smb-share:server=wdm,share=adam/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.Properties.Resources.resources
+/run/user/1000/gvfs/smb-share:server=wdm,share=adam/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.exe
+/run/user/1000/gvfs/smb-share:server=wdm,share=adam/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.pdb
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.Form1.resources
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.Properties.Resources.resources
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/bin/Debug/RPN_stack.exe.config
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/bin/Debug/RPN_stack.pdb
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/bin/Debug/RPN_stack.exe
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.exe
+/home/adampisula/Projects/C#/RPN_stack/RPN_stack/obj/Debug/RPN_stack.pdb

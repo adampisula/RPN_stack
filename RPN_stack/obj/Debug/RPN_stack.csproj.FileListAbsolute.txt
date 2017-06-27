@@ -1,0 +1,9 @@
+C:\Elektronika\VS\RPN_stack\RPN_stack\bin\Debug\RPN_stack.exe.config
+C:\Elektronika\VS\RPN_stack\RPN_stack\bin\Debug\RPN_stack.exe
+C:\Elektronika\VS\RPN_stack\RPN_stack\bin\Debug\RPN_stack.pdb
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.csprojResolveAssemblyReference.cache
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.Form1.resources
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.Properties.Resources.resources
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.csproj.GenerateResource.Cache
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.exe
+C:\Elektronika\VS\RPN_stack\RPN_stack\obj\Debug\RPN_stack.pdb
